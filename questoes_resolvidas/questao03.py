@@ -17,4 +17,5 @@ for i in range(len(vetor_numero)):
         soma = soma + vetor_numero[i]
 print("\nO SEU VETOR: ", vetor_numero)
 print("Posições digitadas: ", valor_pos_1, "e", valor_pos_2)
-print("A soma dos valores das posições indicadas: ", soma, "\n")
+print("A soma dos valores das posições indicadas: ", soma)
+print()
